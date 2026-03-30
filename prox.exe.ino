@@ -5,9 +5,9 @@
 #define SENSOR_PIN 18
 //#define LED_PIN 2
 
-const char* ssid = "DIGI-wj5P";
-const char* password = "X55hzbJ74G";
-const char* FIREBASE_HOST = "https://esp32-house-entry-alert-default-rtdb.europe-west1.firebasedatabase.app";
+const char* ssid = "WIFI NAME HERE";
+const char* password = "WIFI PASSWORD HERE";
+const char* FIREBASE_HOST = "FIREBASE LINK HERE";
 
 // retinem starea anterioara
 int lastState = HIGH;
